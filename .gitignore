@@ -1,0 +1,5 @@
+node_modules/
+release-builds/
+server/models/
+server/.env
+server/song_story/__pycache__/
